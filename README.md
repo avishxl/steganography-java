@@ -191,8 +191,10 @@ This project demonstrates concepts of:
 
 ## 👨‍💻 Author
 
-**Vishal**
-B.Tech – Computer Science
+**A Vishal**
+**Aarushi Gupta**
+**Shivani Acharya**
+B.Tech – Information Technology
 
 ---
 
